@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# generated catalogs contain data from your Techstream copy - keep them out of the repository
+*.cat
+catalog*.txt
